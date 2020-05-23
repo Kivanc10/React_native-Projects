@@ -8,7 +8,7 @@ const Headlines = ({navigation ,route}) => {
     const [headlines, setHeadlines] = useState({});
     const query = route.params && route.params.category;   
     const language = "tr";
-    const API_KEY = "ceac67c5db184b519a28719eab1c7cc2";
+    const API_KEY = "<YOUR_API_KEY>";
     const url = `https://newsapi.org/v2/everything?language=${language}&q=${query}&apiKey=${API_KEY}`;
     useEffect(() => {
         fetcData();
