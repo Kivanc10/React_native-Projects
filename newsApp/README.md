@@ -2,7 +2,7 @@
 <h1>
     Dinamic News App
 </h1>
-<p>Firstly,you make this app , you get an API_KEY for news.You can any news source this key.I got from <b>https://newsapi.org/</b></p>
+<p>Firstly,if you make this app , you get an API_KEY for news.You can any news source this key.I got from <b>https://newsapi.org/</b></p>
 <br>
 <p><b>This app include has lots of news source via News API and show you divide as categories.</b></p>
 <br>
