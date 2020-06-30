@@ -30,7 +30,7 @@ This section show that actual golds buy and sell values.
 <br>
 <br>
 <br>
-#### 3-) Calculate(Hesaplama)
+<h2> 3-) Calculate(Hesaplama)</h2>
 <br>
 <br>
 This section include that calculate the response of currencies according to euro.
