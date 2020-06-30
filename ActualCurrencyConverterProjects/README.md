@@ -39,3 +39,7 @@ This section include that calculate the response of currencies according to euro
 
 
 <img src="images/6.jpg" style="width=300,height=600" />
+<br>
+<br>
+<br>
+<img src="images/7.jpg" style="width=300,height=600" />
