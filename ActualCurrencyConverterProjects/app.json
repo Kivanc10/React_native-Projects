@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Anlık Döviz-Altın Çevirici",
+    "slug": "deneme",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/mainPage.png",
+    "splash": {
+      "image": "./assets/entryImage.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.kivancSoft.kivanc",
+      "versionCode": 1,
+      "config" : {
+        "googleMobileAdsAppId": "ca-app-pub-7845548592670563~8850518770"
+      }
+    }
+  }
+}
