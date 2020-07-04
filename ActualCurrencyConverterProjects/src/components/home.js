@@ -5,7 +5,7 @@ import axios from "axios";
 
 class Home extends Component {
   constructor(props) {
-    // android banner  ca-app-pub-7845548592670563/8766580682
+    
     super(props);
     this.state = {
       BHD: "",
@@ -34,7 +34,7 @@ class Home extends Component {
   }
 
   async componentDidMount() {
-    axios.get("http://data.fixer.io/api/latest?access_key=f6faff1af62a19ab04c8173da40d7664&symbols=EUR,TRY,USD,CAD,JPY,KWD,GBP,BHD,KYD,JOD,OMR,CHF,LYD,AZN,AUD,BGN,RUB,QAR,IRR,CNY")
+    axios.get("http://data.fixer.io/api/latest?access_key={YOUR_ACCES_KEY}&symbols=EUR,TRY,USD,CAD,JPY,KWD,GBP,BHD,KYD,JOD,OMR,CHF,LYD,AZN,AUD,BGN,RUB,QAR,IRR,CNY")
       .then((response) => {
         this.setState({
           rates: response.data.rates
