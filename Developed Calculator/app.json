@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "myCalculator",
+    "slug": "myCalculator",
+    "SdkVersion": "38.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ic_launcher.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.kivancSoft.kivanc",
+      "versionCode": 1
+    }
+  }
+}
