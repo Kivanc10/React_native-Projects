@@ -32,4 +32,7 @@ One more instances
 
 ## Namaz : 
 
-* This is last page.It has pray times belong to cities of Turkey and their district.You should just choose city and it's district.Then you can pray times 30 days.Times is real.
+* This is last page.It has pray times belong to cities of Turkey and their district.You should just choose city and it's district.Then you can pray times 30 days.
+
+
+![namaz](https://user-images.githubusercontent.com/51750773/90987573-9838c800-e594-11ea-81bd-cb86f18251af.jpg)
